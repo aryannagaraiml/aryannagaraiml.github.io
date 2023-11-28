@@ -34,8 +34,14 @@ body {
     padding: 0px 0px 5px 0px;
     margin-top: 30px;
     text-decoration: none;
-    color: #ffffff;
-    border-bottom: 1px solid #ffffff;
+    color: violet;
+    border-bottom: 1px solid violet;
+}
+
+#email:hover {
+    color: white;
+    border-bottom: 1px solid white;
+    transition: 0.5s;
 }
 
 #oslo {
